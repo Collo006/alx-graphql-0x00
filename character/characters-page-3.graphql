@@ -1,0 +1,11 @@
+query{
+characters(page:3w){
+results{
+id
+name
+status
+image
+}
+}
+}
+}
